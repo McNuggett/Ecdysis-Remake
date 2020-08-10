@@ -1,6 +1,6 @@
 # Ecdysis-Remake
 
-Made with Ableton Live Suite 10.0.3
+Made with Ableton Live 10 Suite
 
 ## Plugins Used
 Echobode
