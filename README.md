@@ -1,8 +1,8 @@
-ml# Ecdysis-Remake
+# Ecdysis-Remake
 
 Made with Ableton Live Suite 10.0.3
 
-# Plugins Used
+## Plugins Used
 Echobode
 
 Synplant
