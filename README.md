@@ -25,6 +25,8 @@ Drip (Secret Sauce) https://dripplugin.com/
 
 SoundToys LittleAlterBoy
 
+SoundToys Crystallizer
+
 ### Max 4 Live
 ml.distance https://maxforlive.com/library/device/5228/ml-distance
 
