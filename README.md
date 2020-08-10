@@ -1,4 +1,4 @@
-# Ecdysis-Remake
+ml# Ecdysis-Remake
 
 Made with Ableton Live Suite 10.0.3
 
@@ -24,3 +24,7 @@ TAPE https://elphnt.io/store/tape/
 Drip (Secret Sauce) https://dripplugin.com/
 
 SoundToys LittleAlterBoy
+
+## Max 4 Live
+ml.distance https://maxforlive.com/library/device/5228/ml-distance
+Granulator II https://www.ableton.com/en/packs/granulator-ii/
