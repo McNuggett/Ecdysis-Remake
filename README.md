@@ -11,9 +11,9 @@ Xfer Serum
 
 NI Massive
 
-Ozone 8 Suite
+iZotope Ozone 8 Suite
 
-Neutron 2 Suite
+iZotope Neutron 2 Suite
 
 Valhalla Supermassive
 
