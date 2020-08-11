@@ -1,8 +1,8 @@
 # Ecdysis-Remake
 
-Made with Ableton Live Suite 10.0.3
+Made with Ableton Live 10 Suite
 
-# Plugins Used
+## Plugins Used
 Echobode
 
 Synplant
@@ -24,3 +24,10 @@ TAPE https://elphnt.io/store/tape/
 Drip (Secret Sauce) https://dripplugin.com/
 
 SoundToys LittleAlterBoy
+
+SoundToys Crystallizer
+
+### Max 4 Live
+ml.distance https://maxforlive.com/library/device/5228/ml-distance
+
+Granulator II https://www.ableton.com/en/packs/granulator-ii/
